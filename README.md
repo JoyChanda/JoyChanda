@@ -1,8 +1,13 @@
-<!-- Header Banner -->
-<h1 align="center">✨ Hi, I'm <span style="color:#0ea5e9;">Joy Chanda</span> ✨</h1>
-<h3 align="center">Frontend Developer • MERN Stack • UI/UX Designer</h3>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#0ea5e9,#ff6a95,#a855f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
+    ✨ Hi, I'm Joy Chanda ✨
+  </span>
+</h1>
 
-<!-- Unique Visitor Counter -->
+<h3 align="center">
+  Frontend Developer • MERN Stack Enthusiast • UI/UX Designer
+</h3>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/joychanda/count.svg" />
 </p>
@@ -18,23 +23,21 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 ---
 
 ## 🧠 Soft Skills  
-<table>
-<tr>
-<td>🌟 Problem Solving</td>
-<td>🤝 Team Collaboration</td>
-<td>🎯 Focus & Dedication</td>
-</tr>
-<tr>
-<td>📌 Creativity</td>
-<td>🧩 Critical Thinking</td>
-<td>💬 Communication</td>
-</tr>
-</table>
+<p align="center">
+  <span style="background:#0ea5e9;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Problem Solving</span>
+  <span style="background:#ff6a95;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Team Collaboration</span>
+  <span style="background:#a855f7;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Focus & Dedication</span>
+  <span style="background:#00c6ff;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Creativity</span>
+  <span style="background:#ffb347;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Critical Thinking</span>
+  <span style="background:#f97316;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Communication</span>
+</p>
 
 ---
 
 ## 🎨 UI/UX Toolbox  
-- Figma  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,adobexd,illustrator,framer" width="70" style="margin:5px;" />
+</p>
 - Wireframing  
 - Component Design  
 - Color Psychology  
@@ -44,15 +47,14 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/joy-chanda/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joy-chanda/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin:5px;" /></a>
+  <a href="https://github.com/joychanda" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" style="margin:5px;" /></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
@@ -101,7 +103,7 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 
 ---
 
-## 📈 Contributions  
+## 📈 Contributions Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joychanda&bg_color=0d1117&color=00eaff&line=0ea5e9&point=ffffff&area=true&hide_border=true" />
 </p>
@@ -109,7 +111,7 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 ---
 
 ## ✨ Fun Fact  
-I love turning random ideas into **clean, modern and user-friendly digital products**.
+I love turning random ideas into **clean, modern, and user-friendly digital products**.
 
 ---
 
