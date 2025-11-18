@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1764806400&v=beta&t=MRPZjUxcZlcZlAQPYzKxUoKI9fp47Vw-TAKrwkIiRpE" 
+       alt="Joy Chanda Banner" 
+       width="100%" />
+</p>
+
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#0ea5e9,#ff6a95,#a855f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
     Hi, I'm Joy Chanda ✨
@@ -7,10 +13,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;UI/UX+Designer" />
 </h3>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/joychanda/count.svg" />
-</p>
 
 ---
 
