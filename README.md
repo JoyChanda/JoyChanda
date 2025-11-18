@@ -1,11 +1,11 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#0ea5e9,#ff6a95,#a855f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
-    ✨ Hi, I'm Joy Chanda ✨
+    Hi, I'm Joy Chanda ✨
   </span>
 </h1>
 
 <h3 align="center">
-  Frontend Developer • MERN Stack Enthusiast • UI/UX Designer
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Enthusiast;UI/UX+Designer" />
 </h3>
 
 <p align="center">
