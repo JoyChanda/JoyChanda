@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Enthusiast;UI/UX+Designer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;UI/UX+Designer" />
 </h3>
 
 <p align="center">
