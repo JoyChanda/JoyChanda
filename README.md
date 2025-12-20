@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1764806400&v=beta&t=MRPZjUxcZlcZlAQPYzKxUoKI9fp47Vw-TAKrwkIiRpE" 
+  <img src="https://www.linkedin.com/in/joy-chanda/overlay/background-image/" 
        alt="Joy Chanda Banner" 
        width="100%" />
 </p>
