@@ -66,10 +66,30 @@ I build **clean, scalable, and user-centric web applications** with strong visua
 ---
 
 ## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="45"/><br>Photoshop</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C Lang</td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,bootstrap,express,nodejs,mongodb,firebase,git,figma,ps,c" />
-</p>
 
 ---
 
