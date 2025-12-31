@@ -138,11 +138,13 @@ I build **clean, scalable, and user-centric web applications** with strong visua
 
 ## 📊 GitHub Overview
 
+## 📊 GitHub Overview
+
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=joychanda&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joychanda&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoyChanda&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&icon_color=22d3ee&hide_border=true" />
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoyChanda&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
